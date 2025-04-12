@@ -1,0 +1,2 @@
+# SUSsh
+Super UnSecure Shell
