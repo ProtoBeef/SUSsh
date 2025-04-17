@@ -18,7 +18,7 @@ client = docker.from_env()
 
 # Global variables
 buffer = []  # Buffer to store terminal output lines
-max_buffer_size = 20  # Maximum number of lines in the buffer
+max_buffer_size = 30  # Maximum number of lines in the buffer
 message = None  # To hold the message containing the embed
 
 # Simple ping pong command
